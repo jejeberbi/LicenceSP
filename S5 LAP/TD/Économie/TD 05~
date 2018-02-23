@@ -1,0 +1,145 @@
+
+
+	= Grandes opérations de répartition =
+
+- Construction du logement: investissement
+-- Logement comme un service
+-- Loyer de logement comme opération sur produit, c'est un service. Ce n'est donc pas compté comme une opération de répartition
+
+
+	= Opérations financières =
+
+1. Instruments monétaires, on distingue les monnaies et les devises. Les devises sont en général des monnaies convertibles
+- Lorsque quelqu'un détient une devise, il détient une créance sur le pays qui a émis cette devise
+- Or utilisé comme réserve de création monétaire
+
+- DTS: Droits Tirages Spéciaux, détenu par le FMI
+-- FMI: chaque pays possède une quote part importante. Avec le fond généré par la participation des pays, le FMI va aller porter secours aux pays en difficultés. Les pays ont un droit de tirage sur leur quote-part, mais ce n'est pas un instrument financier courant
+
+- Monnaie fiduciaire si ce n'est pas une devise, monnaie basée sur la confiance ; scripturale: véhiculé par des écritures dans les comptes (chèque, virement etc) ; monnaie électronique: CB ; monnaie numérique: bitcoins, ou paiement via téléphone, etc. 
+-- La monnaie a une caractéristique: la liquidité suprême
+
+
+2. Instruments de placement
+- Instruments qui permettent de générer des rendements proportionnellement aux risques pris par leur acquisition
+- Couple risque/rendement, plus le risque est élevé, plus le rendement sera élevé, mais peut être incertain
+- Exemples: actions, titres négociables, c'est un titre de propriété. Une action hors bourses n'est pas négociable, une action en bourse peut l'être.
+-- Marché primaire: quand une entreprise émet des titres pour la première fois. Marché secondaire: quand un détenant d'un titre va le revendre. 
+-- Obligation: titre de créance, une entreprise émet des obligations qui sont achetés sur le marché obligateur
+
+
+3. Instruments de financement
+- Crédit à court terme classique
+- Provisions techniques d'assurance: ensemble de droits détenus par les assurés
+
+
+		== Le circuit comme représentation des relations économiques ==
+
+- Représentation de l'interdépendance d'acteurs économiques d'actions que ces acteurs effectuent
+-- Circulation de flux économiques, distinction entre flux et stocks
+
+- F. Quesnay a modélisé ce circuit, il est à l'origine de la physiocratie
+-- Tableau économique 
+-- Classe productive, classe stérile, classe propriétaire (cour, noblesse, clergé)
+-- Double critère: propriété, productivité
+-- Ils parlent d'avance foncières (terre prête à être exploitée), d'avances primitives (que l'on peut comparer à du capital fixe), ainsi que d'avances annuelles (capital circulant)
+-- Une dépense pour une classe est une recette pour une autre: relation d'interdépendance
+-- Quesnay, en analysant ces dépenses et les mouvements d'argent entre classes crée un tableau de dépenses du royaume 
+-- Ce type d'économie, d'ancien régime, est simple et stagnante et donc vulnérable
+-- Plusieurs aléas peuvent détruire l'économie: mauvaises récoltes, problème de l'impôt (l'impôt doit il porter sur le revenu ou le capital ?), le cycle de la guerre.
+
+- Pour les physiocrates, il faut imposer les revenus, sinon on menace la base productive
+-- 1903: Création de l'impôt progressif sur le revenu
+
+- Question: épargner est il prudent et vertueux ou un acte vicieux ? Pour certains, en thésaurisant, l'économie est fragilisée
+
+- Cycle de guerre crée des impositions excessives mais aussi de la dette et en plus ravage les récoltes
+
+
+- Notion de circuit économique
+-- C'est un circuit monétaire, la monnaie est active, elle n'est pas neutre
+-- Le circuit est macro-économique, on peut raisonner sur des agrégats
+-- Constitué sur des relations d'interdépendance, une action entraînera nécessairement des conséquences, et le circuit permet de montrer ces relations
+
+
+- Différentes manières de voir le circuit
+-- Production, PIB=somme des VAB (Valeurs Ajoutées Brutes)+impôts sur produit-subvention sur produit
+-- Optique du revenu, PIB=W (masse des salaires bruts+cotisations sociales+impôts sur la production+RBM+EBE)
+-- Optique de la demande finale: PIB=CF+FBCF+vStock+(x-M)
+
+- Externalité: action non intentionnelle d'un agent économique sur la santé économique d'un autre agent, sans qu'il y ait de rapports formels entre les deux agents. 
+-- L'effet n'étant pas intentionnel, on a du mal à évoluer la valeur des dommages 
+-- Exemple typique: la pollution
+-- Des autorités émettent des titres de droit à polluer
+-- Soucis de distinguer les contributions individuelles ou les contributions collectives (l'ensemble des entrepreneurs plutôt que tel entrepreneur)
+-- Ne tient pas compte des activités illégales ou non déclarés (qui augmente selon la pression)
+
+- Indicateur de Gini: bissectrice qui nous permet de représenter les inégalités
+-- Plus l'espace entre la bissectrice et la réelle courbe est élevée, plus les inégalités sont élevés
+
+- Plus facile de définir la pauvreté absolue que la richesse absolue
+-- On l'estime à moins de 2 dollars par jour, ces 2 dollars permettant de satisfaire l'absolu nécessaire, juste un rapport énergétique 
+-- On définit aussi une pauvreté relative, via les seuils de pauvreté: 60% de la médiane, ou encore 50% de la médiane
+
+
+- Correction possible au PIB ou indicateurs complémentaires, voire même alternatifs
+-- Comparaison dans l'espace: comparer deux PIB en valeur absolu n'a pas de sens sauf si les monnaies d'expression sont semblable. On a donc recours au PPA, la Parité des Pouvoirs d'Achats. Critiquable car la consommation évolue dans le temps et dans les époques
+-- On peut comparer les PIB par habitant à défaut de comparer les PIB directement
+-- Activité économique (H) H=Heure travaillé en moyenne par an*nombre d'habitants. PIB/H=Productivité horaire 
+
+
+= Alternative au PIB ? =
+
+- Deux catégories d'indicateurs
+-- Complémentaires
+-- Alternatifs 
+
+
+- Indice de richesse (Banque Mondiale) 
+-- Trois catégories: capitaux naturels ; capitaux produits ; capitaux humains 
+-- On voit comment se partage les capitaux dans les différentes échelles de revenus des États
+-- Les pays pauvres ont en général beaucoup de matière première mais peu ou pas d'industrie et peu ou pas de services
+-- La production de richesse ne dépend pas que des ressources naturels.
+-- Problèmes des transferts comme la fuite des cerveaux 
+
+
+- IDH, Indice de Développement Humain (du PNUD dont notamment Sen)
+-- Trois dimensions, l'IDH est une moyenne des trois comprise entre 0 et 1. 
+-- Première dimension: PIB/tête 
+-- Deuxième dimension: espérance de vie
+-- Troisième dimension: scolarité 
+
+- L'IDH met l'accent sur une liaison étroite entre l'augmentation de la richesse et l'amélioration des conditions de vie
+-- Cela permet un bouleversement des classements par rapport au PIB
+
+
+- Aux US, l'Indice de Santé Sociale (ISS)
+-- Voir tableau page 12
+
+
+
+- Les indices substitutifs au PIB sont souvent des indices calculés par des ONG. Ces indices visent à interpeller l'opinion publique. C'est le cas de l'empreinte écologique que l'on calcule en nombre de planètes. On peut aussi compter dans un pays, combien de pays il y a besoin pour satisfaire les besoins 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

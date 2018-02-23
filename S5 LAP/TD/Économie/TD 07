@@ -1,0 +1,110 @@
+ 
+
+
+2. Le phénomène de la croissance
+
+
+- Formellement, la croissance économique traduit l'augmentation d'un indicateur quantitatif de la richesse créée. La croissance doit être distinguée du développement économique, celui-ci renvoie plutôt au changement des conditions de bien être de la population et au delà, à la transformation des structures économiques et sociales
+-- On peut avoir un développement sans croissance, c'est le cas des économies rentières en particulier de la rente pétrolière. On parle parfois de la malédiction du pétrole ou de la maladie Hollandaise. Le pétrole déséquilibre l'économie et défavorise les industries non pétrolières. 
+-- On peut avoir une croissance économique sans développement. C'est le cas en général des pays émergents ou sous développés
+
+
+- On distingue dans l'évolution d'une grandeur économique une variation relative (taux de variation, en % en général) et une variation absolue
+-- On ne peut additionner ou soustraire des % que si ils sont calculés par rapport à la même base
+-- Les hausses et les baisses d'une même variable économique n'ont pas des effets symétriques sur les valeurs absolues 
+-- On ne cumule pas les taux de croissance par addition mais par multiplication des Cm
+-- Il subsiste encore l'effet prix, de l'inflation. Pour tenir compte de cela, on doit calculer cette grandeur en volume, grandeur réelle (opposition à nominale), donc soit à prix constant soit en PPA
+
+
+V1=P1*Q1
+V2=P2*Q2
+
+- Deux périodes différentes, incomparables en terme de volume
+
+Cm(va)=V2/V1
+-> Le nombre de produits fabriqués Q peut ne pas bouger mais V augmenter par gonflement des prix. La VA peut augmenter par l'inflation
+
+On peut:
+
+V1=P1*Q1
+V'2=P1*Q2
+--> On utilise là un système à prix constant. On voit là l'augmentation en volume
+
+Cm(vol)=Cm(va)/Cm(P)
+
+-> Pour qu'il y ait création de richesse, la croissance en Valeur doit être supérieur à l'inflation
+--> On compare donc l'évolution de PIB réel et non pas nominal
+
+
+- Disparité de la croissance économique dans le temps 
+-- On observe des tendances: par exemple, une forte tendance au sortir de la 2nd GM 
+
+- Disparité géographique 
+-- La Chine fait 10% de croissance là où la France en fait 1,5% 
+-- Les mêmes facteurs peuvent intervenir mais de manière différente selon l'espace et la période
+
+
+
+3. La comptabilité de la croissance
+
+- On peut analyser la croissance de manière conjoncturelle 
+
+PIB=CF+FBCF+Ystock+[X-M]
+   {Demande interne}{Demande externe}
+
+- Le PIB est-il du à une augmentation de CF ? De FBCF ? 
+-- Enjeu: qui est le plus dynamique ? Le moins dynamique ?
+-- Comportement des ménages, investissement, variation du stock, augmentation de la balance commerciale 
+-- Contribution relative de CF: ((Ycf/Cf) * (CF/PIB2015)]
+
+- Conjoncture en France et en Allemagne ne sont pas synchrone
+-- France: Forte demande intérieur, balance commerciale fortement négative
+-- Allemagne: forte exportation, faible demande intérieure
+
+- Variation des stocks=contribution de l'investissement
+-- Contribution du commerce extérieure 
+
+- Contribution de consommation: plusieurs facteurs indirect, comme le pouvoir d'achat, les produits
+-- De même, facteur indirect de l'investissement: marge, recours au crédit
+-- Facteur indirect de l'exportation: compétitivité (coût du travail, qualité des produits, taux de change, etc)
+
+
+
+- Fonction de production:
+-- Q=f(K,L)
+-- Revenu (Q)=fonction du capital (K) et du travail (L)
+-- Par exemple K0/L0=10machine/5Hommes=une certaine technique de production
+-- On peut mesurer en machines, en heure de travail, etc.
+-- On peut ainsi obtenir des coefficients et observer ce qui produit le plus de richesse, on parle d'intensité capitalistique: certaines techniques sont intenses en capital, d'autres sont intenses en travail
+-- On cherche la technique la plus optimale: c'est l'efficience ou l'efficacité au sens économique
+-- Coût total=W*L+i*K 
+-- Coût du travail+coût du capital
+-- Il y a une productivité du travail et une productivité du capital. À l'équilibre, coût=productivité. Question: comment évolue la productivité des facteurs
+
+
+- Loi des rendements ou de la productivité
+-- Loi non proportionnelle: si le capital est constant mais que le facteur travail augmente, la productivité n'augmente pas nécessairement. Le rendement peut augmenter au début puis baisser
+-- Au delà d'un certain seuil, le facteur constant s'épuise
+-- Rendement croissant mauvais pour la concurrence, car si rendement croissant dans concurrence pure et parfaite=position de monopole à venir
+-- Si les deux facteurs sont multipliés par 2, la production devrait être multiplié par 2 (constant)
+-- Taux de croissance=contribution du capital[coût du capital et productivité]+contribution du travail[W et de la productivité]+contribution résiduelle (productivité globale des facteurs, non issu du travail ou du capital, on l'appelle en général le progrès technique) 
+-- Lors d'études empiriques, on voit que le taux de croissance s'explique bien plus par ce facteur résiduel que par les facteurs capital et travail
+-- On suppose que le progrès technique est libre, alors qu'il y a des brevets, etc. il a donc un coût. On le voit comme endogène à l'économique.
+-- Pour certains, on ne peut avoir de la croissance économique que si l'on a du progrès technique
+-- Dans cette contribution mystérieuse, on peut y voir, l'innovation technique, l'organisation, la qualité des institutions, le capital humain (la formation des prochains producteurs)
+-- La croissance ne peut se penser qu'en termes de régime de croissance 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
